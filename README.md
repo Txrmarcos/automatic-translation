@@ -1,1 +1,1 @@
-# Tradu-o-Autom-tica
+# automatic-translation
